@@ -920,10 +920,10 @@ ul.slimmenu.collapsed li > ul {
 	height: 76vh;
 }
 #owl-top .item.top-image-1{
-	background-image:url('../images/flowr.png');
+	background-image:url('../images/background.png');
 }
 #owl-top .item.top-image-2{
-	background-image:url('../images/flower.jpg');
+	background-image:url('../images/background.png');
 }
 #bar{
 	width: 0%;
